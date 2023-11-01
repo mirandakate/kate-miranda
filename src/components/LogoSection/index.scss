@@ -1,0 +1,23 @@
+#logo_section {
+    .logo {
+        &.react-js {
+            filter: grayscale(1) opacity(0.9);
+        }
+
+        &.typescript {
+            filter: grayscale(1) opacity(0.4);
+        }
+
+        &.next-js {
+            filter: grayscale(1) opacity(0.25);
+        }
+
+        &.javascript {
+            filter: grayscale(1) invert(15%)
+        }
+
+        &.tailwind {
+            filter: grayscale(1) opacity(0.5);
+        }
+    }
+}

@@ -1,0 +1,24 @@
+
+.main-img {
+    width: 50%;
+}
+
+.image {
+    background-image: url('/images/image.png');
+    width: 50%;
+    height: 100%;
+    background-size: cover;
+    box-shadow: -20px 0px 20px 0px white inset;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+@media screen and (max-width: 768px) {
+    .image {
+        width: 100%;
+    }
+}
