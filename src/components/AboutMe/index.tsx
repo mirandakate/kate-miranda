@@ -54,9 +54,9 @@ const AboutMe: React.FunctionComponent<AboutMeProps> = (props) => {
                                 About Me
                             </h2>
                             <p className="mt-6 mx-auto max-w-2xl text-lg font-bold text-emerald-50">
-                                Hi, I'm Kate Miranda, a React JS Developer with a knack of crafting a clean and efficient user interfaces. With 7 years of experience,
-                                I specialize in building interactive web applications using React. I'm passionate about creating seamless user experiences and writing 
-                                elegant code. Let's work together to create something extraordinary!
+                                Hi, I&apos;m Kate Miranda, a React JS Developer with a knack of crafting a clean and efficient user interfaces. With 7 years of experience,
+                                I specialize in building interactive web applications using React. I&apos;m passionate about creating seamless user experiences and writing 
+                                elegant code. Let&apos;s work together to create something extraordinary!
                             </p>
                         </div>
                     </div>

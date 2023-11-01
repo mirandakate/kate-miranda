@@ -17,7 +17,7 @@ const MainSection: React.FunctionComponent<MainSectionProps> = (props) => {
                     <div className="relative px-4 py-16 sm:px-6 sm:py-24 lg:py-32 lg:px-8">
                         <div className="wrapper py-16">
                             <h1 className="text-4xl font-extrabold mx-20 tracking-tight sm:text-5xl lg:text-6xl">
-                                <span className="block text-emerald-800">Senior React JS</span>
+                                <span className="block text-emerald-800">Sr. React JS</span>
                                 <span className="block text-emerald-600">Developer</span>
                                 <a
                                     href="/images/resume.pdf"
